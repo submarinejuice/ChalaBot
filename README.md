@@ -15,9 +15,13 @@ models and financial APIs.
 **🚀 Features**
 
 📊 - Sidebar navigation with quick actions like recent chats and financial overviews
+
 💬 - Chat interface that distinguishes between user and AI messages
+
 🧠-  Placeholder for simulated AI/ML predictions and advice
+
 ⚡ - Responsive design built mobile-first using Tailwind
+
 🔒 - Structure ready for Firebase or secure backend integration
 
 **📌 Goals (In Progress)**
